@@ -1,7 +1,11 @@
 # ST7789_Watch_2bit
 Analog Watch/Clock with Arduino and and ST7789 IPS
 
-YouTube video: https://youtu.be/35Z0enhEYqM 
+YouTube videos: 
+
+https://youtu.be/jFGDFuLhdMc 
+
+https://youtu.be/35Z0enhEYqM 
 
 ## BOM
 - ST7789 IPS display
